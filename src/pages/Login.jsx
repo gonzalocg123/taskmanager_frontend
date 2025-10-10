@@ -90,7 +90,7 @@ const Login = ({ onLogin, onSwitchToRegister }) => {
                     }`}
                     disabled={loading}
                 >
-                    {loading ? 'Iniciando sesión...' : 'Entrar'}
+                    {loading ? 'Iniciando sesión...\n (Puede llegar a tardar hasta 3 minutos)' : 'Entrar'}
                 </button>
                 
                 <button 
