@@ -7,7 +7,7 @@ Este proyecto se comunica con una API REST desarrollada en **Spring Boot** y des
 
 ## 🚀 Demo en Vivo
 
-👉 **[Task Manager App](https://taskmanager-frontend-azure.vercel.app)**  
+👉 **[Task Manager App](https://taskmanager-frontend-zeta.vercel.app/)**  
 
 ---
 
