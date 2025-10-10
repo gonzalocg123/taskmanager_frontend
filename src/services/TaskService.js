@@ -1,7 +1,7 @@
 // services/TaskService.js - SOLO BACKEND
 import axios from 'axios';
 
-const API_URL = 'https://taskmanager-backend-megy.onrender.com';
+const API_URL = 'https://taskmanager-backend-megy.onrender.com/api';
 
 export const taskService = {
     async getUserTasks(userEmail) {

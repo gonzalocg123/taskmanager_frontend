@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://taskmanager-backend-megy.onrender.com';
+const API_URL = 'https://taskmanager-backend-megy.onrender.com/api';
 
 // Configurar interceptor para todas las peticiones
 axios.interceptors.request.use(
