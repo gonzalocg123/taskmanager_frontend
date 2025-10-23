@@ -5,25 +5,25 @@ Este proyecto se comunica con una API REST desarrollada en **Spring Boot** y des
 
 ---
 
-## 🚀 Demo en Vivo
+## Demo en Vivo
 
 👉 **[Task Manager App](https://taskmanager-frontend-zeta.vercel.app/)**  
 
 ---
 
-## ✨ Características
+## Características
 
-- ✅ CRUD completo de tareas (Crear, Leer, Actualizar, Eliminar)  
-- ✅ Registro e inicio de sesión de usuarios  
-- ✅ Diseño **responsive** y moderno con **Tailwind CSS**  
-- ✅ Tareas organizadas por estado (pendientes / completadas)  
-- ✅ Comunicación con backend mediante **Axios**  
-- ✅ Variables de entorno configurables (`.env`)  
-- ✅ Despliegue en **Vercel** con CI/CD automático  
+- CRUD completo de tareas (Crear, Leer, Actualizar, Eliminar)  
+- Registro e inicio de sesión de usuarios  
+- Diseño **responsive** y moderno con **Tailwind CSS**  
+- Tareas organizadas por estado (pendientes / completadas)  
+- Comunicación con backend mediante **Axios**  
+- Variables de entorno configurables (`.env`)  
+- Despliegue en **Vercel** con CI/CD automático  
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 - **React 18** - Biblioteca de interfaz de usuario  
 - **Vite** - Entorno de desarrollo rápido  
@@ -34,7 +34,7 @@ Este proyecto se comunica con una API REST desarrollada en **Spring Boot** y des
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 📦 taskmanager-frontend
@@ -51,7 +51,7 @@ Este proyecto se comunica con una API REST desarrollada en **Spring Boot** y des
 
 ---
 
-## ⚙️ Configuración de Entorno
+## Configuración de Entorno
 
 Crea un archivo `.env` en la raíz del proyecto:
 
@@ -62,7 +62,7 @@ VITE_APP_NAME=Task Manager
 
 ---
 
-## 🏃 Ejecución Local
+## Ejecución Local
 
 ### Requisitos
 - Node.js 16+  
@@ -86,7 +86,7 @@ La aplicación estará disponible en:
 
 ---
 
-## 🌈 Características de la Interfaz
+## Características de la Interfaz
 
 - 💎 Diseño moderno y minimalista  
 - 📱 Totalmente responsive  
@@ -96,7 +96,7 @@ La aplicación estará disponible en:
 
 ---
 
-## 🐞 Errores Comunes
+## Errores Comunes
 
 ### CORS Error
 Verifica que el backend tenga habilitado el dominio del frontend en `SecurityConfig.java`:
@@ -110,7 +110,7 @@ configuration.setAllowedOrigins(Arrays.asList(
 
 ---
 
-## 🚀 Despliegue en Vercel
+## Despliegue en Vercel
 
 1. Vincula el repositorio con **Vercel**.  
 2. Configura variables de entorno:
@@ -130,7 +130,7 @@ configuration.setAllowedOrigins(Arrays.asList(
 
 ---
 
-## 📝 Licencia
+## Licencia
 
 Distribuido bajo la licencia **MIT**.  
 Consulta el archivo `LICENSE` para más información.
@@ -141,6 +141,6 @@ Consulta el archivo `LICENSE` para más información.
 
 ⭐ Si te gusta este proyecto, ¡dale una estrella en GitHub!  
 
-### 🚀 Desarrollado con pasión por [Gonzalo C.G.](https://github.com/gonzalocg123)
+### Desarrollado con pasión por [Gonzalo C.G.](https://github.com/gonzalocg123)
 
 </div>
